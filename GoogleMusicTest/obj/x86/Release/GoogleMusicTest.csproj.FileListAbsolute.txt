@@ -1,0 +1,16 @@
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\GoogleMusicTest.exe.config
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\GoogleMusicTest.exe
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\GoogleMusicTest.pdb
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\GoogleMusicAPI.dll
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\protobuf-net.dll
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\GoogleMusicAPI.pdb
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\protobuf-net.pdb
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\protobuf-net.xml
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\bin\Release\Newtonsoft.Json.xml
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\obj\x86\Release\GoogleMusicTest.csprojResolveAssemblyReference.cache
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\obj\x86\Release\GoogleMusicTest.GoogleTest.resources
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\obj\x86\Release\GoogleMusicTest.Properties.Resources.resources
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\obj\x86\Release\GoogleMusicTest.csproj.GenerateResource.Cache
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\obj\x86\Release\GoogleMusicTest.exe
+C:\Users\Саша\Documents\Visual Studio 2013\Projects\GoogleMusicAPI.NET\GoogleMusicTest\obj\x86\Release\GoogleMusicTest.pdb
